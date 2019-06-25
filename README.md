@@ -8,12 +8,14 @@ There is a new React Context API that seems to be the evolution of redux. As a r
 
 # Usage
 
-1. Create reducer using the saga async functions
+1. Install using `yarn add react-context-saga`
 
-2. Create the provider using sagaName, the recently created reducer, and the initial values
+2. Create reducer using the saga async functions
+
+3. Create the provider using sagaName, the recently created reducer, and the initial values
 	The state of this provider could be changed using dispatch method `{type: "saga_async_function", payload: {color: "blue"}}`
 
-3. There are 2 reserved saga async functions, set and merge
+4. There are 2 reserved saga async functions, set and merge
 	**set**: Change certain value i.e. {type: "set", key:"color", payload: "red"}
 	**merge**: Merge Immutable map i.e. {type: "merge", payload: { color: "red"}}
 
