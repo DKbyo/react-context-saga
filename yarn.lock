@@ -690,9 +690,9 @@ inherits@2, inherits@^2.0.3, inherits@~2.0.3:
   integrity sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==
 
 ini@~1.3.0:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.7.tgz#a09363e1911972ea16d7a8851005d84cf09a9a84"
+  integrity sha512-iKpRpXP+CrP2jyrxvg1kMUpXDyRUFDWurxbnVT1vQPx+Wz9uCYsMIqYuSBLV+PAaZG/d7kRLKRFc9oDMsH+mFQ==
 
 is-accessor-descriptor@^0.1.6:
   version "0.1.6"
@@ -1182,12 +1182,6 @@ rc@^1.2.7:
     ini "~1.3.0"
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
-
-react-context-saga@/data/danyel/Developer/html5/react-context-saga/react-context-saga-v1.0.0.tgz:
-  version "1.0.0"
-  resolved "/data/danyel/Developer/html5/react-context-saga/react-context-saga-v1.0.0.tgz#942b17d927884a37e7080f38b94068a692f99b8e"
-  dependencies:
-    react "^16.8.6"
 
 react-is@^16.8.1:
   version "16.8.6"
